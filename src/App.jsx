@@ -24,7 +24,7 @@ class App extends React.Component {
   render() {
     return (
       <>
-        <h1 className="text-center">Forms</h1>
+        <h1>Forms</h1>
         <form action="">
           <div className="row md-2">
             <div className="col md-6 m-3 p-1">
